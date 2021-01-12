@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-**PLEASE PROVIDE DETAILED INFORMATION, LOGS, CRASH-REPORTS.**
-_Please note: we are not taking feature suggestions at this time._
+**PLEASE PROVIDE DETAILED INFORMATION, LOGS, CRASH-REPORTS.**  
+_Note: we are not accepting feature requests/questions. Just bugs pls :]_
