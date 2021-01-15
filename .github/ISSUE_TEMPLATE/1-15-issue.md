@@ -8,4 +8,5 @@ assignees: ''
 ---
 
 **PLEASE PROVIDE DETAILED INFORMATION, LOGS, CRASH-REPORTS.**  
+[Search for existing issues before opening a new one.](https://github.com/TerraForged/tracker/issues?q=).  
 _Note: we are not accepting feature requests/questions. Just bugs pls :]_
