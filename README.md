@@ -1,2 +1,2 @@
 # tracker
-Technical-issue tracker
+Issue tracker - Bugs only please!
